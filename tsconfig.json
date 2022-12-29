@@ -23,9 +23,6 @@
     "allowUnusedLabels": false,                        /* Disable error reporting for unused labels. */
     "allowUnreachableCode": false,                     /* Disable error reporting for unreachable code. */
     "skipLibCheck": true,
-    "typeRoots": ["./node_modules/@types", "./src/types"],
-  },
-  "include": [
-    "src"
-  ]
+    "typeRoots": ["./node_modules/@types", "./types"],
+  }
 }
